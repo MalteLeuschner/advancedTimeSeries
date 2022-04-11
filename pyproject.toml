@@ -9,6 +9,7 @@ python = ">=3.8,<3.11"
 scipy = "^1.8.0"
 scikit-learn = "^1.0.2"
 pandas = "^1.4.2"
+matplotlib = "^3.5.1"
 
 [tool.poetry.dev-dependencies]
 
